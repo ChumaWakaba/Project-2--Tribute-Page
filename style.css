@@ -30,6 +30,7 @@ figure {
   background-color: white;
   padding: 20px;
   margin-left: 20px;
+  margin: 0 auto;
 }
 
 ul {
@@ -41,10 +42,6 @@ ul {
 
 li {
   padding: 10px;
-}
-
-figure {
-  margin: 0 auto;
 }
 
 .quote {
