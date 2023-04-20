@@ -1,50 +1,45 @@
 # Project-2--Tribute-Page
 
-clone -
-git clone link
+# Project Name: Hello Velisa Africa Academy!
 
-cd .\Project-2--Tribute-Page\
+# Description
 
-- development branch
-  git checkout - b development
-  git add .
-  git commit -m "Development"
-  git push 
-  git push --set-upstream origin Development
+This is a professional README.md
 
-- Feature branch
-  git checkout - b Feature
-  git add .
-  git commit -m "Add change"
-  git add .
-  git commit -m "Set up linter"
-  git push 
-  git push --set-upstream origin Feature
+## Built With
 
-- Installations
-  npm init -y
+- HTML
+- CSS
 
-  Add Lighthouse to Chrome
+## Getting Started
 
-  npm install -g lighthouse
+## Prerequisite
 
-  npm install --save-dev hint@7.x
+- Install Git.
+- Install Vs code or any text editor.
 
-  npx hint .
+👤 **Chuma Wakaba**
 
-  npm install --save-dev stylelint@13.x stylelint-scss
+- GitHub: @ChumaWakaba
+- Twitter: N/A
+- LinkedIn: Chuma Wakaba
 
-  npx stylelint "**/*.{css,scss}"
+## 🤝 Contributing
 
-- Push to GitHub
-  git add .
-  git commit -m "Project completed"
-  git push
+Contributions, issues, and feature requests are welcome!
 
-  git add .
-  git commit -m "Update"
+Feel free to check the [issues page](../../issues/).
 
-  git add .
-  git commit -m "Fix linter error"
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
 
 
