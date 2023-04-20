@@ -11,7 +11,9 @@ This is a professional README.md
 - HTML
 - CSS
 
-## Getting Started
+## Live view
+
+[Live view](https://inquisitive-kheer-d8c392.netlify.app/) 
 
 ## Prerequisite
 
